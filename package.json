@@ -29,7 +29,7 @@
         "verbose": true,
         "collectCoverage": true
     },
-    "files": ["index.js"],
+    "files": ["lib","index.js"],
     "keywords": [
         "javascript",
         "javascript-create-powerpoint",
